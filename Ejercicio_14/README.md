@@ -73,25 +73,6 @@ Crear una API RESTful para gestionar una biblioteca simple utilizando Spring Boo
 4. Agregar tests unitarios
 5. Implementar caché para las consultas frecuentes
 
-## Estructura de Proyecto Sugerida
-```
-src/
-├── main/
-│   ├── java/
-│   │   └── com/
-│   │       └── library/
-│   │           ├── LibraryApplication.java
-│   │           ├── controllers/
-│   │           ├── models/
-│   │           ├── repositories/
-│   │           ├── services/
-│   │           ├── exceptions/
-│   │           └── dtos/
-│   └── resources/
-│       └── application.properties
-└── test/
-    └── java/
-```
 
 ## Entregables Esperados
 1. Código fuente en un repositorio Git
