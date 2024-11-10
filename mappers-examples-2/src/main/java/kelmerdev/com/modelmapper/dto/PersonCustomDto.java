@@ -8,7 +8,7 @@ import lombok.ToString;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@ToStringgit
+@ToString
 public class PersonCustomDto {
     private Long idDto;
     private String nameDto;
