@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Spring-ai
+  ai:
+    azure:
+      openai:
+        api-key: ${OPENAI_API_KEY}
